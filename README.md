@@ -1,4 +1,4 @@
-# Send_Messanger_WhatsApp
+# Send_Messange_WhatsApp
 
 Scripts en JavaScript que envían mensajes de forma automática por **WhatsApp Web**. Se pegan en la consola del navegador y mandan un mensaje por cada línea del texto que les indiques.
 
